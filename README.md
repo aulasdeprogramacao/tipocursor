@@ -1,0 +1,2 @@
+# tipocursor
+Propriedade Cursor
